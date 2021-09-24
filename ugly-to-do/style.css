@@ -1,0 +1,20 @@
+body {
+    background-color: lightskyblue;
+}
+
+ul {
+    list-style: none;
+    margin-left: 3em;
+    font-family: 'Roboto Mono', monospace;}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 8em;
+    margin-top: .5em;
+    margin-left: .4em;
+    margin-bottom: .2em;
+}
+
+div {
+    margin-left: 5em;
+}
